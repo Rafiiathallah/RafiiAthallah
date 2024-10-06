@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="./assets/Pixel-Room.gif" alt="banner">
 
 <p style="text-align: justify;">
-<img align="right" src="./assets/Pixel-Spider-Man.gif" width="220" height="240" loop="infinite"/>
+<img align="right" src="./assets/Pixel-Scarecrow.gif" width="220" height="240" loop="infinite"/>
 <h3>Hi there 👋 Welcome to my GitHub Page!</h3><br />
 My name is Rafii 🤝. I am currently learning and working on projects to sharpen my skills 💻. When I am not developing, I love to game, read comics, and do photography, all while enjoying a nice cup of coffee ☕️.
 Feel free to explore my page!
