@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- About me text section -->
 
 <div align="left">
-    <h1 align="left">🐋 Rafii Athallah</h1>
+    <h1 align="left">Rafii Athallah 🐋</h1>
 </div>
 
 **`Computer Science Graduate | Full Stack Developer`**
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <img src="./assets/Pixel-Room.gif" alt="banner">
 
 <p style="text-align: justify;">
-<img align="right" src="./assets/Pixel-Spider-Man.gif" width="160" height="180" loop="infinite"/>
+<img align="right" src="./assets/Pixel-Spider-Man.gif" width="220" height="240" loop="infinite"/>
 <h3>Hi there 👋! Welcome to my GitHub Page.</h3><br />
-My name is Rafii 🤝, but you can call me Raf. I'm currently learning and working on projects to sharpen my skills 💻. When I am not developing, I love to game, read comics, and do photography, all while enjoying a nice cup of coffee ☕️.
+My name is Rafii 🤝. I am currently learning and working on projects to sharpen my skills 💻. When I am not developing, I love to game, read comics, and do photography, all while enjoying a nice cup of coffee ☕️.
 Feel free to explore my page!
 </p>
 
@@ -36,7 +36,7 @@ Feel free to explore my page!
 
 <!-- Tech Stack Section -->
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack</h2>
 <!-- Tech Stack icons -->
 <div align="center">
 
@@ -49,7 +49,7 @@ Feel free to explore my page!
 
 <!-- GitHub Stats section -->
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 <!-- GitHub stats -->
 <div align="center">
 
