@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- About me text section -->
+<!-- About me section -->
 
 <div align="left">
     <h1 align="left">Rafii Athallah 🐋</h1>
@@ -36,9 +36,8 @@ Feel free to explore my page!
 
 <!-- Socials section -->
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left">🌐 Socials</h2>
 <!-- Socials icons -->
-    
 <div align="center">
     
 [![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafiiathallah) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafii-athallah-diota-bb16a91b5) [![Email](https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:rafiiathallah26@gmail.com) 
